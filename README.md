@@ -1,6 +1,4 @@
-Command used to open the API connection
-
-uma forma de da deploy na aplicação
+Uma forma de da deploy na aplicação pode ser conforme a linha abaixo
 python -m uvicorn main:app --reload
 
 Caso seja preciso mudar a port passar o argumento --port="número da porta"
